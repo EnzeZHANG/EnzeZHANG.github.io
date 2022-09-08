@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Enze Zhang"
-  avatar           : "profile.png"
+  avatar           : "site-logo.png"
   bio              : "Postdoc at UTIG, working on glaciers using remote sensing and deep learning"
   location         : "Austin, Texas, USA"
   employer         :
