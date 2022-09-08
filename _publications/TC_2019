@@ -1,0 +1,11 @@
+---
+title: "Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach"
+collection: publications
+permalink: /publication/TC2019
+excerpt: 'We design a deep learning-based method to automate the glacier terminus delineation.'
+date: 2019-06-28
+venue: 'The Cryosphere'
+paperurl: 'https://tc.copernicus.org/articles/13/1729/2019/'
+citation: 'Zhang, E., Liu, L., & Huang, L. (2019). Automatically delineating the calving front of Jakobshavn Isbræ from multitemporal TerraSAR-X images: a deep learning approach. The Cryosphere, 13(6), 1729-1741.'
+---
+
