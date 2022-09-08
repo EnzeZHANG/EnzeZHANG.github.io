@@ -8,7 +8,9 @@ main:
 
 
   - title: "Talks"
-    url: /talks/      
+    url: /talks/
+  - title: "Guide"
+    url: /markdown/
        
   - title: "CV"
     url: https://enzezhang.github.io/files/Enze_CV.pdf
